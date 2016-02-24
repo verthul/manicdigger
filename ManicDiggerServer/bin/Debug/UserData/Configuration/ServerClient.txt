@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ManicDiggerServerClient xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Format>1</Format>
+  <DefaultGroupGuests>Guest</DefaultGroupGuests>
+  <DefaultGroupRegistered>Guest</DefaultGroupRegistered>
+  <Groups>
+    <Group>
+      <Name>Guest</Name>
+      <Level>0</Level>
+      <Password xsi:nil="true" />
+      <Spawn xsi:nil="true" />
+      <FillLimit xsi:nil="true" />
+      <GroupPrivileges>
+        <Privilege>chat</Privilege>
+        <Privilege>pm</Privilege>
+        <Privilege>build</Privilege>
+        <Privilege>use</Privilege>
+        <Privilege>login</Privilege>
+        <Privilege>tp</Privilege>
+        <Privilege>tp_pos</Privilege>
+        <Privilege>freemove</Privilege>
+      </GroupPrivileges>
+      <GroupColor>Grey</GroupColor>
+    </Group>
+    <Group>
+      <Name>Builder</Name>
+      <Level>1</Level>
+      <Password xsi:nil="true" />
+      <Spawn xsi:nil="true" />
+      <FillLimit xsi:nil="true" />
+      <GroupPrivileges>
+        <Privilege>chat</Privilege>
+        <Privilege>pm</Privilege>
+        <Privilege>build</Privilege>
+        <Privilege>use</Privilege>
+        <Privilege>login</Privilege>
+        <Privilege>tp</Privilege>
+        <Privilege>tp_pos</Privilege>
+        <Privilege>set_home</Privilege>
+        <Privilege>freemove</Privilege>
+      </GroupPrivileges>
+      <GroupColor>Green</GroupColor>
+    </Group>
+    <Group>
+      <Name>Moderator</Name>
+      <Level>2</Level>
+      <Password xsi:nil="true" />
+      <Spawn xsi:nil="true" />
+      <FillLimit xsi:nil="true" />
+      <GroupPrivileges>
+        <Privilege>chat</Privilege>
+        <Privilege>pm</Privilege>
+        <Privilege>build</Privilege>
+        <Privilege>use</Privilege>
+        <Privilege>freemove</Privilege>
+        <Privilege>kick</Privilege>
+        <Privilege>ban</Privilege>
+        <Privilege>banip</Privilege>
+        <Privilege>ban_offline</Privilege>
+        <Privilege>unban</Privilege>
+        <Privilege>list_clients</Privilege>
+        <Privilege>list_saved_clients</Privilege>
+        <Privilege>list_groups</Privilege>
+        <Privilege>list_banned_users</Privilege>
+        <Privilege>list_areas</Privilege>
+        <Privilege>chgrp</Privilege>
+        <Privilege>chgrp_offline</Privilege>
+        <Privilege>remove_client</Privilege>
+        <Privilege>use_tnt</Privilege>
+        <Privilege>restart</Privilege>
+        <Privilege>login</Privilege>
+        <Privilege>tp</Privilege>
+        <Privilege>tp_pos</Privilege>
+        <Privilege>set_home</Privilege>
+        <Privilege>mode</Privilege>
+      </GroupPrivileges>
+      <GroupColor>Cyan</GroupColor>
+    </Group>
+    <Group>
+      <Name>Admin</Name>
+      <Level>3</Level>
+      <Password xsi:nil="true" />
+      <Spawn xsi:nil="true" />
+      <FillLimit xsi:nil="true" />
+      <GroupPrivileges>
+        <Privilege>chat</Privilege>
+        <Privilege>pm</Privilege>
+        <Privilege>build</Privilege>
+        <Privilege>use</Privilege>
+        <Privilege>freemove</Privilege>
+        <Privilege>kick</Privilege>
+        <Privilege>ban</Privilege>
+        <Privilege>banip</Privilege>
+        <Privilege>ban_offline</Privilege>
+        <Privilege>unban</Privilege>
+        <Privilege>announcement</Privilege>
+        <Privilege>welcome</Privilege>
+        <Privilege>list_clients</Privilege>
+        <Privilege>list_saved_clients</Privilege>
+        <Privilege>list_groups</Privilege>
+        <Privilege>list_banned_users</Privilege>
+        <Privilege>list_areas</Privilege>
+        <Privilege>chgrp</Privilege>
+        <Privilege>chgrp_offline</Privilege>
+        <Privilege>remove_client</Privilege>
+        <Privilege>monsters</Privilege>
+        <Privilege>give</Privilege>
+        <Privilege>giveall</Privilege>
+        <Privilege>use_tnt</Privilege>
+        <Privilege>area_add</Privilege>
+        <Privilege>area_delete</Privilege>
+        <Privilege>restart</Privilege>
+        <Privilege>login</Privilege>
+        <Privilege>tp</Privilege>
+        <Privilege>tp_pos</Privilege>
+        <Privilege>set_home</Privilege>
+        <Privilege>mode</Privilege>
+        <Privilege>load</Privilege>
+        <Privilege>time</Privilege>
+        <Privilege>revert</Privilege>
+      </GroupPrivileges>
+      <GroupColor>Yellow</GroupColor>
+    </Group>
+  </Groups>
+  <Clients>
+    <Client>
+      <Name>Player name?</Name>
+      <Group>Guest</Group>
+      <Spawn xsi:nil="true" />
+      <FillLimit xsi:nil="true" />
+    </Client>
+  </Clients>
+  <DefaultSpawn xsi:nil="true" />
+  <DefaultFillLimit xsi:nil="true" />
+</ManicDiggerServerClient>

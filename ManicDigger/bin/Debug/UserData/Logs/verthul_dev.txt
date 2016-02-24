@@ -1,0 +1,33 @@
+24.02.2016 23:22:12 [GAME] Processed server identification
+24.02.2016 23:22:12 [GAME] Server has 291 assets
+24.02.2016 23:22:12 [GAME] Will download 0 missing assets
+24.02.2016 23:22:12 [GAME] Sent window resolution to server
+24.02.2016 23:22:12 [GAME] Sent BLOB request
+24.02.2016 23:22:12 [GAME] Map initialized
+24.02.2016 23:22:12 Player &6verthul&f joins.
+24.02.2016 23:22:12 &2Welcome to my Manic Digger server!
+24.02.2016 23:22:12 [GAME] Initialized map loading
+24.02.2016 23:22:13 [GAME] Finished map loading
+24.02.2016 23:22:33 &6verthul &7tried to breathe under water.
+24.02.2016 23:22:43 &6verthul &7tried to breathe under water.
+24.02.2016 23:23:42 [GAME] Processed server identification
+24.02.2016 23:23:42 [GAME] Server has 291 assets
+24.02.2016 23:23:42 [GAME] Will download 0 missing assets
+24.02.2016 23:23:42 [GAME] Sent window resolution to server
+24.02.2016 23:23:42 [GAME] Sent BLOB request
+24.02.2016 23:23:42 [GAME] Map initialized
+24.02.2016 23:23:42 Player &6verthul&f joins.
+24.02.2016 23:23:42 &2Welcome to my Manic Digger server!
+24.02.2016 23:23:42 [GAME] Initialized map loading
+24.02.2016 23:23:43 [GAME] Finished map loading
+24.02.2016 23:27:04 [GAME] Processed server identification
+24.02.2016 23:27:04 [GAME] Server has 291 assets
+24.02.2016 23:27:04 [GAME] Will download 0 missing assets
+24.02.2016 23:27:04 [GAME] Sent window resolution to server
+24.02.2016 23:27:04 [GAME] Sent BLOB request
+24.02.2016 23:27:04 [GAME] Map initialized
+24.02.2016 23:27:04 Player &6verthul&f joins.
+24.02.2016 23:27:04 &2Welcome to my Manic Digger server!
+24.02.2016 23:27:04 [GAME] Initialized map loading
+24.02.2016 23:27:06 [GAME] Finished map loading
+24.02.2016 23:27:47 &7Respawn

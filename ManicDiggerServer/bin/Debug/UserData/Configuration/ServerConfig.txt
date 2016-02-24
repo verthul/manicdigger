@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ManicDiggerServerConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Format>1</Format>
+  <Name>verthul_dev</Name>
+  <Motd>verthul_dev</Motd>
+  <WelcomeMessage>Welcome to my Manic Digger server!</WelcomeMessage>
+  <Port>25565</Port>
+  <MaxClients>1</MaxClients>
+  <AutoRestartCycle>6</AutoRestartCycle>
+  <ServerMonitor>true</ServerMonitor>
+  <ClientConnectionTimeout>600</ClientConnectionTimeout>
+  <ClientPlayingTimeout>60</ClientPlayingTimeout>
+  <BuildLogging>false</BuildLogging>
+  <ServerEventLogging>false</ServerEventLogging>
+  <ChatLogging>false</ChatLogging>
+  <AllowScripting>false</AllowScripting>
+  <Key>b8951d26-8426-48e0-b8e5-d73ea5e848fe</Key>
+  <Creative>true</Creative>
+  <Public>false</Public>
+  <Password xsi:nil="true" />
+  <AllowGuests>true</AllowGuests>
+  <Monsters>false</Monsters>
+  <MapSizeX>9984</MapSizeX>
+  <MapSizeY>9984</MapSizeY>
+  <MapSizeZ>128</MapSizeZ>
+  <Areas>
+    <Area>
+      <Id>1</Id>
+      <PermittedGroups>
+        <Group>Guest</Group>
+      </PermittedGroups>
+      <PermittedUsers />
+      <Level xsi:nil="true" />
+      <Coords>0,0,1,9984,5000,128</Coords>
+    </Area>
+    <Area>
+      <Id>2</Id>
+      <PermittedGroups>
+        <Group>Builder</Group>
+        <Group>Moderator</Group>
+        <Group>Admin</Group>
+      </PermittedGroups>
+      <PermittedUsers />
+      <Level xsi:nil="true" />
+      <Coords>0,0,1,9984,9984,128</Coords>
+    </Area>
+  </Areas>
+  <Seed>0</Seed>
+  <RandomSeed>true</RandomSeed>
+  <EnableHTTPServer>false</EnableHTTPServer>
+  <AllowSpectatorUse>false</AllowSpectatorUse>
+  <AllowSpectatorBuild>false</AllowSpectatorBuild>
+  <ServerLanguage>de</ServerLanguage>
+  <PlayerDrawDistance>128</PlayerDrawDistance>
+  <EnablePlayerPushing>true</EnablePlayerPushing>
+</ManicDiggerServerConfig>

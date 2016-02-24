@@ -1,0 +1,7 @@
+D:\Projekte\dotNet\SRC\Manicdigger\ScriptingApi\bin\Debug\ScriptingApi.dll
+D:\Projekte\dotNet\SRC\Manicdigger\ScriptingApi\bin\Debug\ScriptingApi.pdb
+D:\Projekte\dotNet\SRC\Manicdigger\ScriptingApi\bin\Debug\LibNoise.dll
+D:\Projekte\dotNet\SRC\Manicdigger\ScriptingApi\bin\Debug\protobuf-net.dll
+D:\Projekte\dotNet\SRC\Manicdigger\ScriptingApi\obj\Debug\ScriptingApi.csprojResolveAssemblyReference.cache
+D:\Projekte\dotNet\SRC\Manicdigger\ScriptingApi\obj\Debug\ScriptingApi.dll
+D:\Projekte\dotNet\SRC\Manicdigger\ScriptingApi\obj\Debug\ScriptingApi.pdb

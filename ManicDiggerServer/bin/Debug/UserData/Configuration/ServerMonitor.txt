@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ServerMonitorConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <MaxPackets>500</MaxPackets>
+  <MaxBlocks>50</MaxBlocks>
+  <MaxMessages>3</MaxMessages>
+  <MessageBanTime>60</MessageBanTime>
+  <TimeIntervall>3</TimeIntervall>
+</ServerMonitorConfig>
